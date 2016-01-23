@@ -1,5 +1,6 @@
 # 10-2014 UPDATE : MOST LIKELY OUTDATED - PROCEED WITH CAUTION (CONSIDER NOT PROCEEDING AT ALL)
-Alternative: https://www.iyzico.com/bin-kontrol
+
+Alternative: https://github.com/shibby/Kredi-Kart-Bin-Listesi
 
 
 tr-bin-numbers
